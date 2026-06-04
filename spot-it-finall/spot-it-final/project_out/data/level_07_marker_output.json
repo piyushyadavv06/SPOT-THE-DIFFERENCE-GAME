@@ -1,0 +1,48 @@
+{
+  "id": 7,
+  "title": "Cozy Hearth",
+  "category": "hard",
+  "img1": "frontend/assets/levels/hard_1a.png",
+  "img2": "frontend/assets/levels/hard_1b.png",
+  "time_limit": 90,
+  "max_wrong": 3,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 726,
+      "cy": 43,
+      "radius": 20,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 252,
+      "cy": 193,
+      "radius": 27,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 15,
+      "cy": 327,
+      "radius": 35,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 581,
+      "cy": 373,
+      "radius": 41,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 567,
+      "cy": 157,
+      "radius": 31,
+      "desc": "Difference 5"
+    },
+    {
+      "cx": 774,
+      "cy": 399,
+      "radius": 31,
+      "desc": "Difference 6"
+    }
+  ]
+}

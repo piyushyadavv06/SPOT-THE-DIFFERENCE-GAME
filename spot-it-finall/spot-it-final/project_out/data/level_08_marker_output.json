@@ -1,0 +1,48 @@
+{
+  "id": 8,
+  "title": "Luxury Washroom",
+  "category": "hard",
+  "img1": "frontend/assets/levels/hard_2a.png",
+  "img2": "frontend/assets/levels/hard_2b.png",
+  "time_limit": 90,
+  "max_wrong": 3,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 46,
+      "cy": 323,
+      "radius": 37,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 243,
+      "cy": 71,
+      "radius": 31,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 356,
+      "cy": 84,
+      "radius": 26,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 615,
+      "cy": 309,
+      "radius": 34,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 522,
+      "cy": 455,
+      "radius": 29,
+      "desc": "Difference 5"
+    },
+    {
+      "cx": 281,
+      "cy": 273,
+      "radius": 35,
+      "desc": "Difference 6"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "title": "Bedroom Scene",
+  "category": "easy",
+  "img1": "frontend/assets/levels/easy_3a.png",
+  "img2": "frontend/assets/levels/easy_3b.png",
+  "time_limit": 90,
+  "max_wrong": 5,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 379,
+      "cy": 27,
+      "radius": 36,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 716,
+      "cy": 178,
+      "radius": 43,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 547,
+      "cy": 475,
+      "radius": 33,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 172,
+      "cy": 267,
+      "radius": 44,
+      "desc": "Difference 4"
+    }
+  ]
+}

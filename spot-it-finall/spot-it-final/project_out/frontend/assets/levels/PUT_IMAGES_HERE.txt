@@ -1,0 +1,2 @@
+Put your image pairs here: easy_1a.png, easy_1b.png, etc.
+

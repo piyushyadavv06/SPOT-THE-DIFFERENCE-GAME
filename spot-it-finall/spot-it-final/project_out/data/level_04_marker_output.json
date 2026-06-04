@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "title": "Market",
+  "category": "medium",
+  "img1": "frontend/assets/levels/med_1a.png",
+  "img2": "frontend/assets/levels/med_1b.png",
+  "time_limit": 90,
+  "max_wrong": 4,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 29,
+      "cy": 421,
+      "radius": 30,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 87,
+      "cy": 340,
+      "radius": 30,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 547,
+      "cy": 299,
+      "radius": 30,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 681,
+      "cy": 382,
+      "radius": 30,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 773,
+      "cy": 400,
+      "radius": 41,
+      "desc": "Difference 5"
+    }
+  ]
+}

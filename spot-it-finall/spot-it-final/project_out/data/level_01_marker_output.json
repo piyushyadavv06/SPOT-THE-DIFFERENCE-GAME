@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "title": "Kitchen Morning",
+  "category": "easy",
+  "img1": "frontend/assets/levels/easy_1a.png",
+  "img2": "frontend/assets/levels/easy_1b.png",
+  "time_limit": 90,
+  "max_wrong": 5,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 261,
+      "cy": 37,
+      "radius": 42,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 86,
+      "cy": 73,
+      "radius": 42,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 311,
+      "cy": 282,
+      "radius": 42,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 520,
+      "cy": 444,
+      "radius": 56,
+      "desc": "Difference 4"
+    }
+  ]
+}

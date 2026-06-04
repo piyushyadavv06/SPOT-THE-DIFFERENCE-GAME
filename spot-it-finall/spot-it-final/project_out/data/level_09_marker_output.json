@@ -1,0 +1,48 @@
+{
+  "id": 9,
+  "title": "Shopping Mall",
+  "category": "hard",
+  "img1": "frontend/assets/levels/hard_3a.png",
+  "img2": "frontend/assets/levels/hard_3b.png",
+  "time_limit": 90,
+  "max_wrong": 3,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 161,
+      "cy": 29,
+      "radius": 30,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 560,
+      "cy": 231,
+      "radius": 34,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 351,
+      "cy": 451,
+      "radius": 37,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 562,
+      "cy": 455,
+      "radius": 30,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 767,
+      "cy": 419,
+      "radius": 36,
+      "desc": "Difference 5"
+    },
+    {
+      "cx": 322,
+      "cy": 62,
+      "radius": 33,
+      "desc": "Difference 6"
+    }
+  ]
+}

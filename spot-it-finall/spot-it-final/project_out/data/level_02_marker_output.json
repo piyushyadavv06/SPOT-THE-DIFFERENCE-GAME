@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "title": "Garden Afternoon",
+  "category": "easy",
+  "img1": "frontend/assets/levels/easy_2a.png",
+  "img2": "frontend/assets/levels/easy_2b.png",
+  "time_limit": 90,
+  "max_wrong": 5,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 392,
+      "cy": 313,
+      "radius": 39,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 476,
+      "cy": 262,
+      "radius": 26,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 209,
+      "cy": 321,
+      "radius": 34,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 550,
+      "cy": 449,
+      "radius": 24,
+      "desc": "Difference 4"
+    }
+  ]
+}

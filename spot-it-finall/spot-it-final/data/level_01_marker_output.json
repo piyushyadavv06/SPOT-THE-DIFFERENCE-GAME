@@ -1,0 +1,54 @@
+{
+  "id": 1,
+  "title": "1",
+  "category": "easy",
+  "img1": "frontend/assets/levels/easy_1a.png",
+  "img2": "frontend/assets/levels/easy_1b.png",
+  "time_limit": null,
+  "max_wrong": 5,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 789,
+      "cy": 203,
+      "radius": 30,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 362,
+      "cy": 211,
+      "radius": 30,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 366,
+      "cy": 352,
+      "radius": 30,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 568,
+      "cy": 466,
+      "radius": 30,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 292,
+      "cy": 477,
+      "radius": 30,
+      "desc": "Difference 5"
+    },
+    {
+      "cx": 769,
+      "cy": 316,
+      "radius": 30,
+      "desc": "Difference 6"
+    },
+    {
+      "cx": 751,
+      "cy": 530,
+      "radius": 30,
+      "desc": "Difference 7"
+    }
+  ]
+}

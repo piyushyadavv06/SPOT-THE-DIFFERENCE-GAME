@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "title": "Playground",
+  "category": "medium",
+  "img1": "frontend/assets/levels/med_2a.png",
+  "img2": "frontend/assets/levels/med_2b.png",
+  "time_limit": 90,
+  "max_wrong": 4,
+  "tolerance": 20,
+  "differences": [
+    {
+      "cx": 528,
+      "cy": 44,
+      "radius": 33,
+      "desc": "Difference 1"
+    },
+    {
+      "cx": 303,
+      "cy": 254,
+      "radius": 33,
+      "desc": "Difference 2"
+    },
+    {
+      "cx": 153,
+      "cy": 382,
+      "radius": 21,
+      "desc": "Difference 3"
+    },
+    {
+      "cx": 140,
+      "cy": 278,
+      "radius": 26,
+      "desc": "Difference 4"
+    },
+    {
+      "cx": 300,
+      "cy": 420,
+      "radius": 32,
+      "desc": "Difference 5"
+    }
+  ]
+}
